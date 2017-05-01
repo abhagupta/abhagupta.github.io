@@ -21,6 +21,19 @@ body {
     font-feature-settings: "kern" 1;
     font-kerning: normal; }
 
+.profile {
+    width: 100px;
+    height: 100px;
+}
+
+.tabs {
+    float: left;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    width: 160px;
+    margin-left: -220px;
+    text-align: right;
+}
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
@@ -33,9 +46,9 @@ ul, ol, dl, figure,
 /**
  * Images
  */
-img {
-    max-width: 100%;
-    vertical-align: middle; }
+/*img {*/
+    /*max-width: 100%;*/
+    /*vertical-align: middle; }*/
 
 /**
  * Figures
