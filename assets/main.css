@@ -11,7 +11,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-    font: 400 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: 300 16px/1.5 "Palatino, serif", Helvetica, Arial, sans-serif;
     color: #111;
     background-color: #fdfdfd;
     -webkit-text-size-adjust: 100%;
@@ -24,6 +24,10 @@ body {
 .profile {
     width: 100px;
     height: 100px;
+}
+
+.hacks {
+    font: 500 16px/1.5 "Palatino, serif", Helvetica, Arial, sans-serif;
 }
 
 .tabs {
